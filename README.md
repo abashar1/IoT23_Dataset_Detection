@@ -2,7 +2,7 @@
 
 ## Jupyter Notebook Report
 
-This project uses the machine learning to detect anomalies in a network. The dataset used to was StratosphereIPS's IoT-23 dataset. From the website: 
+This project uses the machine learning to detect anomalies in a network. The dataset used was StratosphereIPS's IoT-23 dataset. From the website: 
 
 > IoT-23 is a new dataset of network traffic from Internet of Things (IoT) devices. It has 20 malware captures executed in IoT devices, and 3 captures for benign IoT devices traffic.
 
